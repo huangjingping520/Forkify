@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjingping520/Forkify.git"
+  },
+  "author": "Merlin Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangjingping520/Forkify/issues"
+  },
+  "homepage": "https://github.com/huangjingping520/Forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
